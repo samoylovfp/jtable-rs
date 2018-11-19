@@ -1,5 +1,5 @@
 extern crate serde;
-use serde::ser::{Serialize, Serializer, SerializeStruct, SerializeSeq};
+use serde::ser::{Serialize, Serializer, SerializeStruct};
 
 #[cfg(test)]
 #[cfg_attr(test, macro_use)]
