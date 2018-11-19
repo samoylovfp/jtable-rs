@@ -2,6 +2,7 @@
 name = "jtable"
 version = "0.1.0"
 authors = ["filsam <samoylovfp@gmail.com>"]
+description = "Utility classes to easily render json responses for jtable.org plugin"
 
 [dependencies]
 serde = "1.0.80"
